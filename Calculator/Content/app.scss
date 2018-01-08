@@ -1,0 +1,17 @@
+﻿@import "partials/normalize";
+@import "partials/grid";
+@import "partials/calculator";
+@import "partials/switch";
+
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    background: #555;
+    font-family: Arial;
+}
+
+h1 {
+    color: #fff;
+}
